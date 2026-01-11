@@ -200,6 +200,12 @@ header nav a:hover {
 .Exercise-grid img:hover {
     transform: scale(1.05);
 }
+.portfolio-link a {
+  font-size: 36px;
+  color: #ff5722;
+  letter-spacing: 2px;
+}
+
 .contact {
     padding: 80px;
     text-align: center;
